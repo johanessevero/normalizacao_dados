@@ -8,8 +8,8 @@
 ## Técnicas de normalização
 ### Normalização min-max (escala)
 #### Vantagens e desvantagens
-##### Vantagens:
-##### Desvantagens:
+##### Vantagens
+##### Desvantagens
 #### Aplicabilidade e casos de uso
 #### Exemplo em python
 ### Normalização z-score (padronização)
